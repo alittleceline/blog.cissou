@@ -1,0 +1,48 @@
+---
+title: "Minneriya, Sigiriya, Dambulla"
+date: 2014-09-10
+categories: 
+  - "photos"
+  - "sri-lanka"
+  - "voyage-2"
+tags: 
+  - "dambulla"
+  - "sigiriya"
+  - "sri-lanka"
+coverImage: "3sigiriya_min.jpg"
+---
+
+De bon matin, le petit déjeuner est avalé, les sacs sons faits, nous nous rendons au Old Bus Stand. Pour éviter de payer une à deux places en supplément, nous décidons de porter les sacs sur nos genoux, même s'ils étaient assez lourds et encombrants. Étant donné le confort sommaire à l'intérieur du véhicule, ça nous servait en quelque sorte d'air bag de fortune. Au fil de la route, les décors changent : toujours dans les plaines, la végétation indique que le climat est différent dans cette partie du pays. Ils fait plus chaud et plus sec. À Dambulla, nous trouvons facilement le bus qui mène jusqu'à Sigiriya. Grâce à Google Maps, souvent nous anticipons notre arrivée à destination et donc le moment de descendre du bus, les contrôleurs vous indiqueront volontiers quand descendre si vous les avez informés lors de votre montée.
+
+[![Minneriya national park : jeeps](images/DSC06337,medium.1413672049.jpg "Minneriya national park : jeeps")](http://photos.cissou.me/albums/minneriya-sigiriya-2/)
+
+<!--more-->
+
+À notre grand étonnement, Sigiriya n'est pas une agglomération comme Dambulla ou Anuradhapura, mais une suite de petits villages en bord de route. Ils sont essentiellement constitués de petites échoppes, d'un ou deux hôtels (ou Guest House) et de quelques restaurants. Il n'y a pas de banque et le distributeur le plus proche est à 4 km. Nous avons réservé deux nuits dans un hôtel qui vient tout juste d'ouvrir : il n'a pas encore le personnel nécessaire pour faire tourner les cuisines, aussi le propriétaire nous propose-t-il de faire venir le petit-déjeuner en convenant d'un horaire, d'un tarif très raisonnable et propose même un tuk-tuk pour nous conduire directement au restaurant de son frère.
+
+## Parc National de Minneriya
+
+Nous prenons un délicieux repas dans le restaurant qui se trouve à quelques pas de l'hôtel, le Hungry Lion. En basse saison, il y a beaucoup moins de monde et il nous arrive d'être les seuls clients dans la salle. Les plats sont préparés à la demande, cela demande un peu de patience (surtout lorsqu'on ne commande pas les mêmes choses) mais c'est la garantie d'un repas fait maison. Dès 14h30, des amis viennent nous retrouver à l'hôtel accompagnés d'un ranger, dans une jeep. C'est parti pour un safari au parc national de Minneriya ! La route, à peine assez large pour une voiture bien qu'elle soit à double sens, est bordée de terre rouge brique et de végétation. Bien avant d'arriver aux portes du parc pour payer nos frais d'entrée, tout près du bitume, à l'ombre des feuillages, calme et immobile, un vieil éléphant nous regardait passer. Une fois dans le parc, il faut traverser la forêt qui le borde par des petits chemins tortueux et cabossés pour rejoindre l'immense plaine au centre qui entoure le lac. C'est à cet endroit que diverses espèces d'oiseaux, ruminants, renards et éléphants se retrouvent à cette période de l'année.
+
+On nous a dit que des léopards vivaient dans le parc aussi mais qu'effrayés par l'afflux de touristes, ils restaient le plus souvent cachés dans les arbres au loin. C'était l'une des demi-journées aventure les moins fatigantes et pourtant des plus dépaysantes. Le soir, nous nous sommes installés tous les 4 sur la terrasse d'un hôtel pour un verre puis un bon repas. À l'accueil, un employé charmant qui parlait très bien anglais (chose vraisemblablement rare au Sri Lanka, en fin de compte) a volontiers répondu à nos questions concernant l'escalade du rocher de Sigiriya, le meilleur moment pour y aller, le temps que ça devrait nous prendre, etc. Cet hôtel possède une piscine et permet aux non-résidents d'en profiter aussi en échange d'un tarif d'entrée. Ça semble le lieu idéal pour un moment de détente après une journée sportive comme celle qui nous attend le lendemain. Une bonne nuit de sommeil et rendez-vous au sommet du rocher en milieu de matinée !
+
+## Le rocher de Sigiriya
+
+Des marches, des marches, des marches. En terre, en pierre, en fer forgé, on en a vu de toutes sortes pendant ce beau voyage, mais une grande partie d'entre elles se trouvaient à Sigiriya ! (Le reste se répartit généreusement entre Mihintale et Dambulla). La visite commence donc par les escaliers de marches taillées en pierres, étroites et assez hautes. Progressivement, l'ascension du rocher se fait part une suite d'escaliers métalliques construits sur son flanc. Sur le parcours, on s'arrête pour admirer des fresques peintes directement sur la roche, puis on longe le Mirror Wall, mur de teinte orange-terre cuite, jadis poli jusqu'à briller. Il a cependant subi des dégradations successives, infligées par des visiteurs peu soigneux et peu respectueux. Comme c'est le cas partout dans le monde, depuis les toilettes dans une aire d'autoroute du bout du monde jusqu'à la tour Eiffel, des visiteurs aiment laisser la trace de leur passage en ajoutant un énième graffiti à la collection. Puis à l'approche de la Lion's Gate, un défilé de panneaux informatif expliquent qu'à présent, il faut éviter d'être bruyant sous peine d'énerver les abeilles. D'énormes essaims se trouvent dans les hauteurs, contre le rocher. Le palier que constitue la Lion's Gate offre déjà un superbe panorama et la suite de l'escalade se fait par un escalier entre deux sculptures massives de pattes de lion (autrefois, en haut du rocher, la sculpture comptait aussi une tête qui s'est effondrée il y a bien longtemps. [J'ai trouvé une chouette illustration qui donne une idée de l'aspect initial de la Lion's Gate](https://www.behance.net/gallery/15900783/Historical-Reconstruction-The-Lion-Gate-at-Sigiriya "Sigiriya Lion's Gate reconstruction")).
+
+À partir de la Lion's Gate, sachez que le plus difficile est derrière vous (à moins que vous ne redoutiez aussi la descente). Il ne reste plus grand chose à grimper : une fois là haut, on oublie vite les marches et on est subjugué par la vue. Ça y est, on a fait notre [étape Pékin Express](http://www.6play.fr/m6/pekin-express/#/m6/pekin-express/11370378-christila-au-bord-du-malaise "Pekin express : Sigiriya") ! Le rocher surplombe toute la région, et le paysage est pittoresque. Le sommet est divisé en multiples parcelles à différents niveaux, séparées par des ruines de murs en briques rouge orangé, disposés en terrassements. Et ces arbres qui depuis le sol avaient l'air de minuscules brins d'herbe sont en fait des arbres de 3 mètres qui résistent au vent puissant qui souffle à cette altitude. On s'est assis sur un rebord, près de l'extrémité du rocher, pour contempler, pour méditer, pour profiter. Au soleil, ce vent évite d'avoir trop chaud. Plus le temps passe et plus l'endroit se peuple, alors une fois tous les angles de vue de photos exploités, nous attaquons la descente.
+
+## Le Golden Temple de Dambulla
+
+Après un bon déjeuner, nous avons décidé de passer l'après-midi à Dambulla. Un gigantesque bouddha doré assis-tailleur surplombe un temple très fleuri et peuplé, comme la plupart des sites religieux, de communautés de singes. D'un coté le temple est décoré de statues de moines en file indienne, de l'autre, un accès aux longs escaliers qui mènent au flanc d'une petite montagne, jusqu'aux temples troglodytiques, dans les hauteurs rocheuses. Telles des grottes aménagées, les temples érigés à l'intérieur de la roche sont ornés de toutes parts de peintures, tapisseries tissées à la main, statues de rois ou de bouddha. La montée n'est pas de tout repos mais l'effet de "cave" procure une fraîcheur très appréciable en ces journées abondamment ensoleillées (non pas qu'on s'en plaigne ! Mais encore une fois, les pieds nus, la pierre brûlante, tout ça). Encore une journée bien remplie, l'avantage c'est que le soir on s'endort facilement !
+
+[![Minneriya national park : eagle](images/DSC06354,medium.1413672060.jpg "Minneriya national park : eagle")](http://photos.cissou.me/albums/minneriya-sigiriya-2/) [![Minneriya national park : elephants](images/DSC06320,medium.1413672043.jpg "Minneriya national park : elephants")](http://photos.cissou.me/albums/minneriya-sigiriya-2/) [![Sigiriya rock](images/DSC06490,medium_large.1413672107.jpg "Sigiriya rock")](http://photos.cissou.me/albums/minneriya-sigiriya-2/) [![Sigiriya rock : Lion's Gate](images/DSC06613,medium_large.1413672192.jpg "Sigiriya rock : Lion's Gate")](http://photos.cissou.me/albums/minneriya-sigiriya-2/) [![Dambulla Golden Buddha](images/DSC06642,medium.1413722656.jpg "Dambulla Golden Buddha")](http://photos.cissou.me/albums/dambulla-kandy-1/) [![Dambulla cave temple](images/DSC06656,medium_large.1413722676.jpg "Dambulla cave temple")](http://photos.cissou.me/albums/dambulla-kandy-1/)
+
+## Retrouvez tous les articles concernant notre voyage au Sri-Lanka
+
+- [Voyage au Sri Lanka : prologue](https://blog.cissou.me/2014/09/voyage-au-sri-lanka-prologue/ "Voyage au Sri Lanka : infos et astuces")
+- [Negombo, Mihintale, Anuradhapura](https://blog.cissou.me/2014/09/negombo-mihintale-anuradhapura/ "Negombo, Mihintale, Anuradhapura")
+- [Minneriya, Sigiriya, Dambulla](https://blog.cissou.me/2014/09/minneriya-sigiriya-dambulla/ "Minneriya, Sigiriya, Dambulla")
+- [Kandy, Haputale, Dambatenne](https://blog.cissou.me/2014/09/kandy-haputale-dambatenne/ "Kandy, Haputale, Dambatenne")
+- [Mirissa, Colombo](https://blog.cissou.me/2014/09/mirissa-colombo/ "Mirissa, Colombo")
+- [Voyage au Sri Lanka : épilogue](https://blog.cissou.me/2014/10/voyage-au-sri-lanka-epilogue/ "Voyage au Sri Lanka : Les trucs qu'on retient")

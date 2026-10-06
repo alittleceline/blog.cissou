@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from "astro:content";
+import Base from "../../../../layouts/Base.astro";
+import { postParams } from "../../../../lib/urls";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => ({ params: postParams(post), props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<Base title={post.data.title}>
+  <article>
+    <h1 class="post-title">{post.data.title}</h1>
+    <time class="post-date" datetime={post.data.date.toISOString()}>
+      {post.data.date.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}
+    </time>
+    <Content />
+  </article>
+</Base>

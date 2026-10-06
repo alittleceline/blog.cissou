@@ -1,0 +1,44 @@
+---
+import "../styles/global.css";
+import { getCollection } from "astro:content";
+import { pageUrl, homeUrl } from "../lib/urls";
+
+const { title, description = "Blog dessin, photo, DIY" } = Astro.props;
+const pages = await getCollection("pages");
+const siteName = "Cissou, gribouilles et autres idioties";
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title ? `${title} · ${siteName}` : siteName}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <meta name='robots' content='max-image-preview:large' />
+    <link rel='dns-prefetch' href='//ajax.googleapis.com' />
+      <link rel="alternate" type="application/rss+xml" title="Cissou" href={`${import.meta.env.BASE_URL.replace(/\/$/, "")}/rss.xml`} />
+    {/* COPIED FROM ORIGIN BLOG 
+    <!DOCTYPE html>
+    <link rel="stylesheet" type="text/css" media="all" href="https://blog.cissou.me/wp-content/themes/cissoutheme/style.css" />
+    */}
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-name" href={homeUrl}>{siteName}</a>
+      <nav>
+        {pages.map((p) => <a href={pageUrl(p)}>{p.data.title}</a>)}
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      © {new Date().getFullYear()} {siteName}
+      <a href="/rss.xml">RSS</a>
+    </footer>
+  </body>
+</html>

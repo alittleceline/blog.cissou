@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta charset="UTF-8" />
+<title>Cissou | Gribouilles et autres idioties</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://blog.cissou.me/wp-content/themes/cissoutheme/style.css" />
+<link rel="pingback" href="https://blog.cissou.me/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Cissou &raquo; Flux" href="https://blog.cissou.me/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cissou &raquo; Flux des commentaires" href="https://blog.cissou.me/comments/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-image-inline-css">
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://blog.cissou.me/wp-includes/blocks/image/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://blog.cissou.me/wp-includes/blocks/paragraph/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<script id="jquery-js" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<link rel="https://api.w.org/" href="https://blog.cissou.me/wp-json/" />
+<meta property="og:title" content="Cissou"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://blog.cissou.me"/>
+<meta property="og:site_name" content="Cissou"/>
+<meta property="fb:page_id" content="118515001491877"/>
+<meta property="og:description" content="Gribouilles et autres idioties"/>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2373980-4']);
+  _gaq.push(['_setDomainName', '.cissou.me']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Google tag (gtag.js) -->
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-43XJG6ZGJ1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-43XJG6ZGJ1');
+</script>-->
+</head>
+
+<body class="home blog wp-theme-cissoutheme">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+			<h1 id="site-title"><a href="https://blog.cissou.me/" title="Cissou" rel="home">Cissou<span> et la Planchette graphique</span></a></h1>
+			<h2 id="site-description" class="site-description">Gribouilles et autres idioties</h2>
+			</div><!-- #branding -->
+			<button type="button" id="menubtn">
+				<span>Menu</span>
+				<div class="hamburger-bar">&nbsp;</div>
+			</button>
+			<div id="access" role="navigation" class="clearfix">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Aller au contenu">Aller au contenu</a></div>
+								<div class="menu-header"><ul id="menu-venez-decouvrir" class="menu"><li id="menu-item-788" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-788"><a href="https://blog.cissou.me/" aria-current="page">Accueil</a></li>
+<li id="menu-item-785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-785"><a href="https://blog.cissou.me/category/dessins/">Dessins</a></li>
+<li id="menu-item-786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-786"><a href="https://blog.cissou.me/category/diy/">DIY</a></li>
+<li id="menu-item-787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-787"><a href="https://blog.cissou.me/category/photos/">Photos</a></li>
+<li id="menu-item-1563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1563"><a href="https://blog.cissou.me/category/voyage-2/">Voyage</a>
+<ul class="sub-menu">
+	<li id="menu-item-2056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2056"><a href="https://blog.cissou.me/category/voyage-2/japon/">Japon</a></li>
+	<li id="menu-item-1704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1704"><a href="https://blog.cissou.me/category/voyage-2/argentine/">Argentine</a></li>
+	<li id="menu-item-1655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1655"><a href="https://blog.cissou.me/category/voyage-2/sri-lanka/">Sri Lanka</a></li>
+	<li id="menu-item-1661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1661"><a href="https://blog.cissou.me/category/voyage-2/france/">Coins de France</a></li>
+</ul>
+</li>
+<li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-789"><a href="https://blog.cissou.me/about/">Moi</a>
+<ul class="sub-menu">
+	<li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a href="http://photos.cissou.me">Ma galerie de photos</a></li>
+	<li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a href="https://hire.cissou.me">Mon parcours</a></li>
+</ul>
+</li>
+</ul></div>				<form role="search" method="get" id="searchform" class="searchform" action="https://blog.cissou.me/">
+				<div>
+					<label class="screen-reader-text" for="s">Rechercher :</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Rechercher" />
+				</div>
+			</form>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+		<div id="container">
+			<div id="content" role="main">
+
+			
+	<div id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="https://blog.cissou.me/page/2/" ><span class="meta-nav">&larr;</span> Articles plus anciens</a></div>
+		<div class="nav-next"></div>
+	</div><!-- #nav-above -->
+
+
+
+
+			<div id="post-2159" class="post-2159 post type-post status-publish format-standard hentry category-diy category-photos tag-deguisement">
+			<h2 class="entry-title"><a href="https://blog.cissou.me/2021/11/un-poco-loco/" title="Lien permanent vers ¡Un poco loco!" rel="bookmark">¡Un poco loco!</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Publié le</span> <a href="https://blog.cissou.me/2021/11/un-poco-loco/" title="20 h 00 min" rel="bookmark"><span class="entry-date">5 novembre 2021</span></a> <span class="meta-sep">par</span> <span class="author vcard"><a class="url fn n" href="https://blog.cissou.me/author/tatacissou/" title="Afficher tous les articles par Cissou">Cissou</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<p class="wp-block-paragraph">Cette année, à l&rsquo;occasion d&rsquo;une soirée Halloween, j&rsquo;ai choisi de mettre à l&rsquo;honneur mon film d&rsquo;animation préféré : <strong>Coco</strong>. en m&rsquo;habillant en Miguel, c&rsquo;était l&rsquo;occasion de se faire un déguisement « responsable » avec des vêtements que j&rsquo;avais déjà (jeans, tshirt blanc, chaussures) où que je suis sûre de remettre régulièrement (hoodie rouge neuf). Je n&rsquo;avais pas du tout envie de passer la soirée avec du maquillage noir&amp;blanc sur le visage, alors j&rsquo;ai préféré investir du temps dans la fabrication d&rsquo;un accessoire indispensable à la tenue : la guitare d&rsquo;Ernesto de la Cruz. </p>
+
+
+
+<p class="wp-block-paragraph">Mesdames et Messieurs, voici ma grande fierté de la semaine !</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1006" height="1024" src="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-1006x1024.jpg" alt="silhouette de guitare découpée dans du carton" class="wp-image-2160" srcset="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-1006x1024.jpg 1006w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-295x300.jpg 295w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-768x782.jpg 768w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-1509x1536.jpg 1509w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_1-2011x2048.jpg 2011w" sizes="(max-width: 1006px) 100vw, 1006px" /><figcaption>Création d&rsquo;une guitare, étape 1 : dessin et découpe d&rsquo;un grand carton</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1006" height="1024" src="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-1006x1024.jpg" alt="guitare en carton (en volume) avant et après peinture en spray blanche" class="wp-image-2161" srcset="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-1006x1024.jpg 1006w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-295x300.jpg 295w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-768x782.jpg 768w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-1509x1536.jpg 1509w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_2-2011x2048.jpg 2011w" sizes="(max-width: 1006px) 100vw, 1006px" /><figcaption>Création d&rsquo;une guitare, étape 2 : assembler le tout et peindre en blanc</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1006" height="1024" src="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-1006x1024.jpg" alt="Zoom sur les détails en arabesques dessinés sur le manque et le corps de la guitare" class="wp-image-2162" srcset="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-1006x1024.jpg 1006w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-295x300.jpg 295w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-768x782.jpg 768w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-1509x1536.jpg 1509w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_3-2011x2048.jpg 2011w" sizes="(max-width: 1006px) 100vw, 1006px" /><figcaption>Création d&rsquo;une guitare, étape 3 (ma préférée) : dessiner les détails au Posca noir et feutre doré</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1244" height="2560" src="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-scaled.jpg" alt="guitare en carton entière et terminée, vue de dessus" class="wp-image-2163" srcset="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-scaled.jpg 1244w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-146x300.jpg 146w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-498x1024.jpg 498w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-768x1580.jpg 768w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_4-747x1536.jpg 747w" sizes="auto, (max-width: 1244px) 100vw, 1244px" /><figcaption>Ce n&rsquo;est ni droit ni symétrique, elle n&rsquo;est pas parfaite, mais qu&rsquo;est-ce que je l&rsquo;aime !</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="498" src="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-1024x498.jpg" alt="guitare en carton entière et terminée, vue de côté posée au sol" class="wp-image-2164" srcset="https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-1024x498.jpg 1024w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-300x146.jpg 300w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-768x373.jpg 768w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-1536x747.jpg 1536w, https://blog.cissou.me/wp-content/uploads/2021/11/coco-guitar_5-2048x996.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+							</div><!-- .entry-content -->
+
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Publié dans</span> <a href="https://blog.cissou.me/category/diy/" rel="category tag">DIY</a>, <a href="https://blog.cissou.me/category/photos/" rel="category tag">Photos</a>					</span>
+					<span class="meta-sep">|</span>
+													<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Marqué avec</span> <a href="https://blog.cissou.me/tag/deguisement/" rel="tag">déguisement</a>					</span>
+					<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="https://blog.cissou.me/2021/11/un-poco-loco/#comments">Un commentaire</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2154" class="post-2154 post type-post status-publish format-standard hentry category-dessins category-famille-dessins">
+			<h2 class="entry-title"><a href="https://blog.cissou.me/2021/10/plus-court/" title="Lien permanent vers Plus court !" rel="bookmark">Plus court !</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Publié le</span> <a href="https://blog.cissou.me/2021/10/plus-court/" title="20 h 59 min" rel="bookmark"><span class="entry-date">23 octobre 2021</span></a> <span class="meta-sep">par</span> <span class="author vcard"><a class="url fn n" href="https://blog.cissou.me/author/tatacissou/" title="Afficher tous les articles par Cissou">Cissou</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-1-scaled.jpg" alt="Cissou se coupe les cheveux un peu plus courts toutes les semaines depuis un mois" class="wp-image-2155" width="875" height="1920" srcset="https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-1-scaled.jpg 1166w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-1-137x300.jpg 137w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-1-466x1024.jpg 466w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-1-933x2048.jpg 933w" sizes="auto, (max-width: 875px) 100vw, 875px" /></figure>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Épilogue</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-2-scaled.jpg" alt="Dhaya trouve des cheveux dans la salle de bains, Cissou dit que ce sont des poils" class="wp-image-2156" width="875" height="1920" srcset="https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-2-scaled.jpg 1166w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-2-137x300.jpg 137w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-2-466x1024.jpg 466w, https://blog.cissou.me/wp-content/uploads/2021/10/plus_court-2-933x2048.jpg 933w" sizes="auto, (max-width: 875px) 100vw, 875px" /></figure>
+							</div><!-- .entry-content -->
+
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Publié dans</span> <a href="https://blog.cissou.me/category/dessins/" rel="category tag">Dessins</a>, <a href="https://blog.cissou.me/category/dessins/famille-dessins/" rel="category tag">Famille</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><a href="https://blog.cissou.me/2021/10/plus-court/#respond">Laisser un commentaire</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2138" class="post-2138 post type-post status-publish format-standard hentry category-diy">
+			<h2 class="entry-title"><a href="https://blog.cissou.me/2020/09/fete-des-meres-2020/" title="Lien permanent vers Fête des mères 2020" rel="bookmark">Fête des mères 2020</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Publié le</span> <a href="https://blog.cissou.me/2020/09/fete-des-meres-2020/" title="16 h 42 min" rel="bookmark"><span class="entry-date">7 septembre 2020</span></a> <span class="meta-sep">par</span> <span class="author vcard"><a class="url fn n" href="https://blog.cissou.me/author/tatacissou/" title="Afficher tous les articles par Cissou">Cissou</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<div class="d-flex mobile-flex-column ">
+<div class="half text-left d-flex flex-column justify-content-between">
+<p>Hello ?<br />
+Cette année, j&rsquo;ai choisi de broder un sac en toile naturelle, style cabas pour le marché. J&rsquo;ai totalement oublié de le partager ici, alors la qualité des photos ne sera pas la même que d&rsquo;habitude, et pas d&rsquo;explication étape par étape non plus, sorry!</p>
+<p><img loading="lazy" decoding="async" src="https://blog.cissou.me/wp-content/uploads/2020/09/3-300x199.png" alt="" width="300" height="199" class="aligncenter size-medium wp-image-2140" srcset="https://blog.cissou.me/wp-content/uploads/2020/09/3-300x199.png 300w, https://blog.cissou.me/wp-content/uploads/2020/09/3-768x511.png 768w, https://blog.cissou.me/wp-content/uploads/2020/09/3-1024x681.png 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+</div>
+<div class="half">
+<img loading="lazy" decoding="async" src="https://blog.cissou.me/wp-content/uploads/2020/09/1-300x260.png" alt="" width="300" height="260" class="aligncenter size-medium wp-image-2139" srcset="https://blog.cissou.me/wp-content/uploads/2020/09/1-300x260.png 300w, https://blog.cissou.me/wp-content/uploads/2020/09/1-768x666.png 768w, https://blog.cissou.me/wp-content/uploads/2020/09/1-1024x889.png 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+</div>
+							</div><!-- .entry-content -->
+
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Publié dans</span> <a href="https://blog.cissou.me/category/diy/" rel="category tag">DIY</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><a href="https://blog.cissou.me/2020/09/fete-des-meres-2020/#respond">Laisser un commentaire</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2020" class="post-2020 post type-post status-publish format-standard hentry category-japon category-voyage-2 tag-japon tag-kyoto tag-nara">
+			<h2 class="entry-title"><a href="https://blog.cissou.me/2019/03/le-parc-de-nara-ses-lanternes-et-ses-daims/" title="Lien permanent vers Le parc de Nara, ses lanternes et ses daims" rel="bookmark">Le parc de Nara, ses lanternes et ses daims</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Publié le</span> <a href="https://blog.cissou.me/2019/03/le-parc-de-nara-ses-lanternes-et-ses-daims/" title="13 h 06 min" rel="bookmark"><span class="entry-date">20 mars 2019</span></a> <span class="meta-sep">par</span> <span class="author vcard"><a class="url fn n" href="https://blog.cissou.me/author/tatacissou/" title="Afficher tous les articles par Cissou">Cissou</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>À moins d&rsquo;une heure de train de Kyoto, le parc de Nara offre les perspectives d&rsquo;une visite à la fois pittoresque et culturelle. Au fil de la promenade, on a l&rsquo;impression d&rsquo;être dans un bosquet, dans des temples, au bord d&rsquo;un lac, dans un jardin privé, dans la forêt, ou dans la ville. L&rsquo;une des caractéristiques qui fait le charme du parc de Nara, c&rsquo;est la présence de hordes de daims en liberté un peu partout. Habitués des touristes, ils ne sont pas farouches et la plupart sont même posés là, comme s&rsquo;ils faisaient partie du décor. Recouvertes de mousse, des lanternes en pierre bordent les chemins, alors que dans le sanctuaire shinto Kasuga Taisha, les lanternes suspendues sont en bronze verdi et contrastent avec le vermillon des piliers du sanctuaire.</p>
+<div class="d-flex">
+<a href="http://photos.cissou.me/albums/kyoto-alentours/"><img loading="lazy" decoding="async" src="http://photos.cissou.me/storage/cache/images/004/038/DSC03524,large.1549792893.jpg" width="683" height="1024" class="aligncenter size-medium"/></a><br />
+<a class="ml-2" href="http://photos.cissou.me/albums/kyoto-alentours/"><img loading="lazy" decoding="async" src="http://photos.cissou.me/storage/cache/images/004/037/DSC03519,large.1549792888.jpg" width="683" height="1024" class="aligncenter size-medium"/></a></div>
+<p> <a href="https://blog.cissou.me/2019/03/le-parc-de-nara-ses-lanternes-et-ses-daims/#more-2020" class="more-link">Continuer la lecture <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Publié dans</span> <a href="https://blog.cissou.me/category/voyage-2/japon/" rel="category tag">Japon</a>, <a href="https://blog.cissou.me/category/voyage-2/" rel="category tag">Voyage</a>					</span>
+					<span class="meta-sep">|</span>
+													<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Marqué avec</span> <a href="https://blog.cissou.me/tag/japon/" rel="tag">Japon</a>, <a href="https://blog.cissou.me/tag/kyoto/" rel="tag">Kyoto</a>, <a href="https://blog.cissou.me/tag/nara/" rel="tag">Nara</a>					</span>
+					<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="https://blog.cissou.me/2019/03/le-parc-de-nara-ses-lanternes-et-ses-daims/#respond">Laisser un commentaire</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2095" class="post-2095 post type-post status-publish format-standard hentry category-japon category-voyage-2 tag-bambou tag-kyoto tag-temples">
+			<h2 class="entry-title"><a href="https://blog.cissou.me/2019/03/le-japon-traditionnel-de-kyoto/" title="Lien permanent vers Le Japon traditionnel de Kyoto" rel="bookmark">Le Japon traditionnel de Kyoto</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Publié le</span> <a href="https://blog.cissou.me/2019/03/le-japon-traditionnel-de-kyoto/" title="14 h 03 min" rel="bookmark"><span class="entry-date">5 mars 2019</span></a> <span class="meta-sep">par</span> <span class="author vcard"><a class="url fn n" href="https://blog.cissou.me/author/tatacissou/" title="Afficher tous les articles par Cissou">Cissou</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Parmi les visites à thématique traditionnelle ou religieuse, impossible de passer à côté du « temple aux 10 000 torii », Fushimi Inari-taisha. Un torii (portail symbolique du shintoïsme) sépare le monde physique du monde spirituel ; on dit alors qu&rsquo;il ne vaut mieux pas passer en dessous si on n&rsquo;est pas certain de refaire le chemin dans l&rsquo;autre sens, sans quoi on risque de rester pour toujours dans le monde spirituel. Au delà de cette dimension symbolique, la visite du site Fushimi Inari-taisha impressionne par le nombre de torii disposés le long de la marche, qui donnent cette perspective orangée si particulière.<br />
+<a href="http://photos.cissou.me/albums/kyoto-alentours/"><img loading="lazy" decoding="async" src="http://photos.cissou.me/storage/cache/images/003/982/DSC03096,xlarge.2x.1549790064.jpg" alt="Fushimi Inari Taisha" width="910" height="607" class="aligncenter size-medium" /></a><br />
+ <a href="https://blog.cissou.me/2019/03/le-japon-traditionnel-de-kyoto/#more-2095" class="more-link">Continuer la lecture <span class="meta-nav">&rarr;</span></a></p>
+							</div><!-- .entry-content -->
+
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Publié dans</span> <a href="https://blog.cissou.me/category/voyage-2/japon/" rel="category tag">Japon</a>, <a href="https://blog.cissou.me/category/voyage-2/" rel="category tag">Voyage</a>					</span>
+					<span class="meta-sep">|</span>
+													<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Marqué avec</span> <a href="https://blog.cissou.me/tag/bambou/" rel="tag">bambou</a>, <a href="https://blog.cissou.me/tag/kyoto/" rel="tag">Kyoto</a>, <a href="https://blog.cissou.me/tag/temples/" rel="tag">temples</a>					</span>
+					<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="https://blog.cissou.me/2019/03/le-japon-traditionnel-de-kyoto/#respond">Laisser un commentaire</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="https://blog.cissou.me/page/2/" ><span class="meta-nav">&larr;</span> Articles plus anciens</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="tag_cloud-3" class="widget-container widget_tag_cloud"><h3 class="widget-title">Étiquettes</h3><div class="tagcloud"><a href="https://blog.cissou.me/tag/anais/" class="tag-cloud-link tag-link-143 tag-link-position-1" style="font-size: 9.2537313432836pt;" aria-label="Anais (3 éléments)">Anais</a>
+<a href="https://blog.cissou.me/tag/anniversaire/" class="tag-cloud-link tag-link-43 tag-link-position-2" style="font-size: 12.388059701493pt;" aria-label="Anniversaire (7 éléments)">Anniversaire</a>
+<a href="https://blog.cissou.me/tag/argentine/" class="tag-cloud-link tag-link-254 tag-link-position-3" style="font-size: 11.865671641791pt;" aria-label="Argentine (6 éléments)">Argentine</a>
+<a href="https://blog.cissou.me/tag/big-bang/" class="tag-cloud-link tag-link-61 tag-link-position-4" style="font-size: 11.865671641791pt;" aria-label="Big bang (6 éléments)">Big bang</a>
+<a href="https://blog.cissou.me/tag/bonne-annee/" class="tag-cloud-link tag-link-69 tag-link-position-5" style="font-size: 8pt;" aria-label="Bonne année (2 éléments)">Bonne année</a>
+<a href="https://blog.cissou.me/tag/bebe/" class="tag-cloud-link tag-link-99 tag-link-position-6" style="font-size: 10.298507462687pt;" aria-label="bébé (4 éléments)">bébé</a>
+<a href="https://blog.cissou.me/tag/chat/" class="tag-cloud-link tag-link-233 tag-link-position-7" style="font-size: 8pt;" aria-label="Chat (2 éléments)">Chat</a>
+<a href="https://blog.cissou.me/tag/chutes/" class="tag-cloud-link tag-link-266 tag-link-position-8" style="font-size: 8pt;" aria-label="chutes (2 éléments)">chutes</a>
+<a href="https://blog.cissou.me/tag/cissou/" class="tag-cloud-link tag-link-188 tag-link-position-9" style="font-size: 11.865671641791pt;" aria-label="Cissou (6 éléments)">Cissou</a>
+<a href="https://blog.cissou.me/tag/concours/" class="tag-cloud-link tag-link-108 tag-link-position-10" style="font-size: 8pt;" aria-label="concours (2 éléments)">concours</a>
+<a href="https://blog.cissou.me/tag/dessins/" class="tag-cloud-link tag-link-251 tag-link-position-11" style="font-size: 22pt;" aria-label="Dessins (65 éléments)">Dessins</a>
+<a href="https://blog.cissou.me/tag/dhaya/" class="tag-cloud-link tag-link-24 tag-link-position-12" style="font-size: 15.522388059701pt;" aria-label="Dhaya (15 éléments)">Dhaya</a>
+<a href="https://blog.cissou.me/tag/doctor-who/" class="tag-cloud-link tag-link-79 tag-link-position-13" style="font-size: 9.2537313432836pt;" aria-label="Doctor Who (3 éléments)">Doctor Who</a>
+<a href="https://blog.cissou.me/tag/emma/" class="tag-cloud-link tag-link-74 tag-link-position-14" style="font-size: 9.2537313432836pt;" aria-label="Emma (3 éléments)">Emma</a>
+<a href="https://blog.cissou.me/tag/exposition/" class="tag-cloud-link tag-link-76 tag-link-position-15" style="font-size: 12.910447761194pt;" aria-label="Exposition (8 éléments)">Exposition</a>
+<a href="https://blog.cissou.me/tag/fanart/" class="tag-cloud-link tag-link-107 tag-link-position-16" style="font-size: 8pt;" aria-label="fanart (2 éléments)">fanart</a>
+<a href="https://blog.cissou.me/tag/fligg/" class="tag-cloud-link tag-link-60 tag-link-position-17" style="font-size: 11.865671641791pt;" aria-label="Fligg (6 éléments)">Fligg</a>
+<a href="https://blog.cissou.me/tag/glacier/" class="tag-cloud-link tag-link-271 tag-link-position-18" style="font-size: 8pt;" aria-label="Glacier (2 éléments)">Glacier</a>
+<a href="https://blog.cissou.me/tag/harry-potter/" class="tag-cloud-link tag-link-50 tag-link-position-19" style="font-size: 8pt;" aria-label="Harry Potter (2 éléments)">Harry Potter</a>
+<a href="https://blog.cissou.me/tag/indiana-jones/" class="tag-cloud-link tag-link-28 tag-link-position-20" style="font-size: 8pt;" aria-label="Indiana Jones (2 éléments)">Indiana Jones</a>
+<a href="https://blog.cissou.me/tag/japan-expo/" class="tag-cloud-link tag-link-150 tag-link-position-21" style="font-size: 8pt;" aria-label="Japan Expo (2 éléments)">Japan Expo</a>
+<a href="https://blog.cissou.me/tag/japon/" class="tag-cloud-link tag-link-312 tag-link-position-22" style="font-size: 11.865671641791pt;" aria-label="Japon (6 éléments)">Japon</a>
+<a href="https://blog.cissou.me/tag/khas/" class="tag-cloud-link tag-link-58 tag-link-position-23" style="font-size: 9.2537313432836pt;" aria-label="Khas (3 éléments)">Khas</a>
+<a href="https://blog.cissou.me/tag/kyoto/" class="tag-cloud-link tag-link-314 tag-link-position-24" style="font-size: 9.2537313432836pt;" aria-label="Kyoto (3 éléments)">Kyoto</a>
+<a href="https://blog.cissou.me/tag/lapin/" class="tag-cloud-link tag-link-86 tag-link-position-25" style="font-size: 8pt;" aria-label="Lapin (2 éléments)">Lapin</a>
+<a href="https://blog.cissou.me/tag/lisbonne/" class="tag-cloud-link tag-link-173 tag-link-position-26" style="font-size: 10.298507462687pt;" aria-label="Lisbonne (4 éléments)">Lisbonne</a>
+<a href="https://blog.cissou.me/tag/milia/" class="tag-cloud-link tag-link-139 tag-link-position-27" style="font-size: 9.2537313432836pt;" aria-label="Milia (3 éléments)">Milia</a>
+<a href="https://blog.cissou.me/tag/noel/" class="tag-cloud-link tag-link-36 tag-link-position-28" style="font-size: 11.134328358209pt;" aria-label="Noel (5 éléments)">Noel</a>
+<a href="https://blog.cissou.me/tag/pakwet/" class="tag-cloud-link tag-link-250 tag-link-position-29" style="font-size: 16.776119402985pt;" aria-label="Pakwet (20 éléments)">Pakwet</a>
+<a href="https://blog.cissou.me/tag/papier/" class="tag-cloud-link tag-link-247 tag-link-position-30" style="font-size: 8pt;" aria-label="papier (2 éléments)">papier</a>
+<a href="https://blog.cissou.me/tag/paris/" class="tag-cloud-link tag-link-14 tag-link-position-31" style="font-size: 14.268656716418pt;" aria-label="Paris (11 éléments)">Paris</a>
+<a href="https://blog.cissou.me/tag/pieds/" class="tag-cloud-link tag-link-124 tag-link-position-32" style="font-size: 12.388059701493pt;" aria-label="pieds (7 éléments)">pieds</a>
+<a href="https://blog.cissou.me/tag/pirate/" class="tag-cloud-link tag-link-156 tag-link-position-33" style="font-size: 8pt;" aria-label="pirate (2 éléments)">pirate</a>
+<a href="https://blog.cissou.me/tag/portugal/" class="tag-cloud-link tag-link-172 tag-link-position-34" style="font-size: 9.2537313432836pt;" aria-label="Portugal (3 éléments)">Portugal</a>
+<a href="https://blog.cissou.me/tag/randonnee/" class="tag-cloud-link tag-link-87 tag-link-position-35" style="font-size: 8pt;" aria-label="randonnée (2 éléments)">randonnée</a>
+<a href="https://blog.cissou.me/tag/sapin/" class="tag-cloud-link tag-link-68 tag-link-position-36" style="font-size: 8pt;" aria-label="Sapin (2 éléments)">Sapin</a>
+<a href="https://blog.cissou.me/tag/soleil/" class="tag-cloud-link tag-link-125 tag-link-position-37" style="font-size: 9.2537313432836pt;" aria-label="soleil (3 éléments)">soleil</a>
+<a href="https://blog.cissou.me/tag/sri-lanka/" class="tag-cloud-link tag-link-216 tag-link-position-38" style="font-size: 11.134328358209pt;" aria-label="Sri Lanka (5 éléments)">Sri Lanka</a>
+<a href="https://blog.cissou.me/tag/tour-paris-13/" class="tag-cloud-link tag-link-203 tag-link-position-39" style="font-size: 12.388059701493pt;" aria-label="Tour Paris 13 (7 éléments)">Tour Paris 13</a>
+<a href="https://blog.cissou.me/tag/trumuch/" class="tag-cloud-link tag-link-9 tag-link-position-40" style="font-size: 14.268656716418pt;" aria-label="Trumuch (11 éléments)">Trumuch</a>
+<a href="https://blog.cissou.me/tag/vacances/" class="tag-cloud-link tag-link-17 tag-link-position-41" style="font-size: 12.910447761194pt;" aria-label="vacances (8 éléments)">vacances</a>
+<a href="https://blog.cissou.me/tag/voyage/" class="tag-cloud-link tag-link-126 tag-link-position-42" style="font-size: 9.2537313432836pt;" aria-label="voyage (3 éléments)">voyage</a>
+<a href="https://blog.cissou.me/tag/wak/" class="tag-cloud-link tag-link-59 tag-link-position-43" style="font-size: 11.865671641791pt;" aria-label="Wak (6 éléments)">Wak</a>
+<a href="https://blog.cissou.me/tag/yoga/" class="tag-cloud-link tag-link-176 tag-link-position-44" style="font-size: 9.2537313432836pt;" aria-label="yoga (3 éléments)">yoga</a>
+<a href="https://blog.cissou.me/tag/ete/" class="tag-cloud-link tag-link-18 tag-link-position-45" style="font-size: 8pt;" aria-label="été (2 éléments)">été</a></div>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="https://blog.cissou.me/" title="Cissou" rel="home">
+					Cissou				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Plate-forme de publication personnelle à la pointe de la sémantique" rel="generator">Fièrement propulsé par WordPress</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/cissoutheme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://blog.cissou.me/wp-includes/js/wp-emoji-release.min.js"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://blog.cissou.me/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script type="text/javascript">
+
+!function( $ ) { //code 
+        console.log( "ready!" );
+        $( '#menubtn' ).on('click', function() {
+	    $( this ).toggleClass('active');
+            $( '#access' ).slideToggle(); 
+
+        });
+}( window.jQuery )
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+const posts = (await getCollection("posts")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const url = (p) => {
+  const d = p.data.date;
+  return `/${d.getUTCFullYear()}/${String(d.getUTCMonth() + 1).padStart(2, "0")}/${String(d.getUTCDate()).padStart(2, "0")}/${p.id}/`;
+};
+---
+<html lang="en">
+  <body>
+    <ul>{posts.map((p) => <li><a href={url(p)}>{p.data.title}</a></li>)}</ul>
+  </body>
+</html>
